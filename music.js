@@ -262,4 +262,4 @@ ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
    }
    }); 
    
-	client.login("NDc2MTUyNDYwNjA4Nzk4NzQw.Dkpbnw.PZyhECoovbaCXAm--zIUtbyHzzc");
+client.login(process.env.BOT_TOKEN);
